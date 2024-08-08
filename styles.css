@@ -1,0 +1,25 @@
+body {
+    color: black;
+    background: #e2e2e2;
+    margin: 0px;
+    font-family: "Mooli", sans-serif;
+}
+
+header {
+    border-bottom: solid 1px black;
+    padding: 20px;
+    font-size: 35px;
+    color: black;
+}
+
+section {
+    background: darkgrey;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 40px;
+}
